@@ -1,3 +1,7 @@
 # Array v.s. List
 ## 1. array
-策略函數$\pi(a|s)$是一個機率分佈函數，它的輸入是狀態s，輸出是各個動作的機率，如在馬力歐中:
+* Continuous memory space
+* pre-defined fixed memory space easily cause to waste of memory
+* the consume time of reading and modifying is fast
+* delete or add new data need to move lots of data
+
